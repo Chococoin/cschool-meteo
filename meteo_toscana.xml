@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pages>
+<url_base><![CDATA[http://www.lamma.rete.toscana.it/previ/ita/xml/comuni_web/dati/]]></url_base>
+<link>
+<title>Firenze</title>
+<url>firenze</url></link>
+<link>
+<title>Scandicci</title>
+<url>scandicci</url></link>
+<link>
+<title>Sesto Fiorentino</title>
+<url>sestofiorentino</url></link>
+<link>
+<title>Lastra a Signa</title>
+<url>lastraasigna</url></link>
+<link>
+<title>Signa</title>
+<url>signa</url></link>
+<link>
+<title>Vinci</title>
+<url>vinci</url></link>
+<link>
+<title>Bagno a Ripoli</title>
+<url>bagnoaripoli</url></link>
+<link>
+<title>Calenzano</title>
+<url>calenzano</url></link>
+<link>
+<title>Campi Bisenzio</title>
+<url>campibisenzio</url></link>
+<link>
+<title>Capraia e Limite</title>
+<url>capraiaelimite</url></link>
+<link>
+<title>Castelfiorentino</title>
+<url>castelfiorentino</url></link>
+<link>
+<title>Cerreto Guidi</title>
+<url>cerretoguidi</url></link>
+<link>
+<title>Empoli</title>
+<url>empoli</url></link>
+<link>
+<title>Fiesole</title>
+<url>fiesole</url></link>
+<link>
+<title>Montelupo Fiorentino</title>
+<url>montelupofiorentino</url></link>
+<link>
+<title>Pelago</title>
+<url>pelago</url></link>
+<link>
+<title>Pontassieve</title>
+<url>pontassieve</url></link>
+<link>
+<title>Borgo San Lorenzo</title>
+<url>borgosanlorenzo</url></link>
+<link>
+<title>Dicomano</title>
+<url>dicomano</url></link>
+<link>
+<title>Barberino di Mugello</title>
+<url>barberinodimugello</url></link>
+<link>
+<title>Vagli di Sotto</title>
+<url>vaglidisotto</url></link>
+<link>
+<title>Vaglia</title>
+<url>vaglia</url></link>
+<link>
+<title>Vicchio</title>
+<url>vicchio</url></link>
+<link>
+<title>San Piero a Sieve</title>
+<url>sanpieroasieve</url></link>
+<link>
+<title>Rufina</title>
+<url>rufina</url></link>
+<link>
+<title>Londa</title>
+<url>londa</url></link>
+<link>
+<title>Scarperia</title>
+<url>scarperia</url></link>
+<link>
+<title>San Godenzo</title>
+<url>sangodenzo</url></link>
+<link>
+<title>Firenzuola</title>
+<url>firenzuola</url></link>
+<link>
+<title>Marradi</title>
+<url>marradi</url></link>
+<link>
+<title>Palazzuolo sul Senio</title>
+<url>palazzuolosulsenio</url></link>
+<link>
+<title>Tavarnelle Val di Pesa</title>
+<url>tavarnellevaldipesa</url></link>
+<link>
+<title>Certaldo</title>
+<url>certaldo</url></link>
+<link>
+<title>San Casciano Val di Pesa</title>
+<url>sancascianovaldipesa</url></link>
+<link>
+<title>Impruneta</title>
+<url>impruneta</url></link>
+<link>
+<title>Montespertoli</title>
+<url>montespertoli</url></link>
+<link>
+<title>Greve in Chianti</title>
+<url>greveinchianti</url></link>
+<link>
+<title>Barberino Val d'Elsa</title>
+<url>barberinovaldelsa</url></link>
+<link>
+<title>San Gimignano</title>
+<url>sangimignano</url></link>
+<link>
+<title>Colle Val d'Elsa</title>
+<url>collevaldelsa</url></link>
+<link>
+<title>Poggibonsi</title>
+<url>poggibonsi</url></link>
+<link>
+<title>Radda in Chianti</title>
+<url>raddainchianti</url></link>
+<link>
+<title>Castellina in Chianti</title>
+<url>castellinainchianti</url></link>
+<link>
+<title>Gaiole in Chianti</title>
+<url>gaioleinchianti</url></link>
+<link>
+<title>Figline Valdarno</title>
+<url>figlinevaldarno</url></link>
+<link>
+<title>Terranuova Bracciolini</title>
+<url>terranuovabracciolini</url></link>
+<link>
+<title>Reggello</title>
+<url>reggello</url></link>
+<link>
+<title>San Giovanni Valdarno</title>
+<url>sangiovannivaldarno</url></link>
+<link>
+<title>Montevarchi</title>
+<url>montevarchi</url></link>
+<link>
+<title>Rignano sull'Arno</title>
+<url>rignanosullarno</url></link>
+<link>
+<title>Incisa in Val d'Arno</title>
+<url>incisainvaldarno</url></link>
+<link>
+<title>Cavriglia</title>
+<url>cavriglia</url></link>
+<link>
+<title>Loro Ciuffenna</title>
+<url>lorociuffenna</url></link>
+<link>
+<title>Pian di Sco'</title>
+<url>piandisco</url></link>
+<link>
+<title>Castelfranco di Sopra</title>
+<url>castelfrancodisopra</url></link>
+<link>
+<title>Laterina</title>
+<url>laterina</url></link>
+<link>
+<title>Bucine</title>
+<url>bucine</url></link>
+<link>
+<title>Castiglion Fibocchi</title>
+<url>castiglionfibocchi</url></link>
+<link>
+<title>Arezzo</title>
+<url>arezzo</url></link>
+<link>
+<title>Castiglion Fiorentino</title>
+<url>castiglionfiorentino</url></link>
+<link>
+<title>Subbiano</title>
+<url>subbiano</url></link>
+<link>
+<title>Capolona</title>
+<url>capolona</url></link>
+<link>
+<title>Civitella in Val di Chiana</title>
+<url>civitellainvaldichiana</url></link>
+<link>
+<title>Cortona</title>
+<url>cortona</url></link>
+<link>
+<title>Foiano della Chiana</title>
+<url>foianodellachiana</url></link>
+<link>
+<title>Lucignano</title>
+<url>lucignano</url></link>
+<link>
+<title>Marciano della Chiana</title>
+<url>marcianodellachiana</url></link>
+<link>
+<title>Monte San Savino</title>
+<url>montesansavino</url></link>
+<link>
+<title>Pergine Valdarno</title>
+<url>perginevaldarno</url></link>
+<link>
+<title>Sinalunga</title>
+<url>sinalunga</url></link>
+<link>
+<title>Trequanda</title>
+<url>trequanda</url></link>
+<link>
+<title>Sansepolcro</title>
+<url>sansepolcro</url></link>
+<link>
+<title>Monterchi</title>
+<url>monterchi</url></link>
+<link>
+<title>Sestino</title>
+<url>sestino</url></link>
+<link>
+<title>Badia Tedalda</title>
+<url>badiatedalda</url></link>
+<link>
+<title>Caprese Michelangelo</title>
+<url>capresemichelangelo</url></link>
+<link>
+<title>Anghiari</title>
+<url>anghiari</url></link>
+<link>
+<title>Pieve Santo Stefano</title>
+<url>pievesantostefano</url></link>
+<link>
+<title>Lucca</title>
+<url>lucca</url></link>
+<link>
+<title>Altopascio</title>
+<url>altopascio</url></link>
+<link>
+<title>Pescia</title>
+<url>pescia</url></link>
+<link>
+<title>Marliana</title>
+<url>marliana</url></link>
+<link>
+<title>Montecarlo</title>
+<url>montecarlo</url></link>
+<link>
+<title>Villa Basilica</title>
+<url>villabasilica</url></link>
+<link>
+<title>Uzzano</title>
+<url>uzzano</url></link>
+<link>
+<title>Chiesina Uzzanese</title>
+<url>chiesinauzzanese</url></link>
+<link>
+<title>Ponte Buggianese</title>
+<url>pontebuggianese</url></link>
+<link>
+<title>Buggiano</title>
+<url>buggiano</url></link>
+<link>
+<title>Monsummano Terme</title>
+<url>monsummanoterme</url></link>
+<link>
+<title>Larciano</title>
+<url>larciano</url></link>
+<link>
+<title>Lamporecchio</title>
+<url>lamporecchio</url></link>
+<link>
+<title>Montecatini Terme</title>
+<url>montecatiniterme</url></link>
+<link>
+<title>Pieve a Nievole</title>
+<url>pieveanievole</url></link>
+<link>
+<title>Capannori</title>
+<url>capannori</url></link>
+<link>
+<title>Porcari</title>
+<url>porcari</url></link>
+<link>
+<title>Stazzema</title>
+<url>stazzema</url></link>
+<link>
+<title>Pescaglia</title>
+<url>pescaglia</url></link>
+<link>
+<title>Fosdinovo</title>
+<url>fosdinovo</url></link>
+<link>
+<title>Minucciano</title>
+<url>minucciano</url></link>
+<link>
+<title>Fabbriche di Vallico</title>
+<url>fabbrichedivallico</url></link>
+<link>
+<title>Vergemoli</title>
+<url>vergemoli</url></link>
+<link>
+<title>Castelnuovo Garfagnana</title>
+<url>castelnuovogarfagnana</url></link>
+<link>
+<title>Castelnuovo di Garfagnana</title>
+<url>castelnuovogarfagnana</url></link>
+<link>
+<title>Sillano</title>
+<url>sillano</url></link>
+<link>
+<title>Giuncugnano</title>
+<url>giuncugnano</url></link>
+<link>
+<title>Piazza al Serchio</title>
+<url>piazzaalserchio</url></link>
+<link>
+<title>San Romano in Garfagnana</title>
+<url>sanromanoingarfagnana</url></link>
+<link>
+<title>Villa Collemandina</title>
+<url>villacollemandina</url></link>
+<link>
+<title>Camporgiano</title>
+<url>camporgiano</url></link>
+<link>
+<title>Castiglione di Garfagnana</title>
+<url>castiglionegarfagnana</url></link>
+<link>
+<title>Careggine</title>
+<url>careggine</url></link>
+<link>
+<title>Pieve Fosciana</title>
+<url>pievefosciana</url></link>
+<link>
+<title>Fosciandora</title>
+<url>fosciandora</url></link>
+<link>
+<title>Molazzana</title>
+<url>molazzana</url></link>
+<link>
+<title>Barga</title>
+<url>barga</url></link>
+<link>
+<title>Coreglia Antelminelli</title>
+<url>coregliaantelminelli</url></link>
+<link>
+<title>Bagni di Lucca</title>
+<url>bagnidilucca</url></link>
+<link>
+<title>Borgo a Mozzano</title>
+<url>borgoamozzano</url></link>
+<link>
+<title>Gallicano</title>
+<url>gallicano</url></link>
+<link>
+<title>Livorno</title>
+<url>livorno</url></link>
+<link>
+<title>Rosignano Marittimo</title>
+<url>rosignanomarittimo</url></link>
+<link>
+<title>San Vincenzo</title>
+<url>sanvincenzo</url></link>
+<link>
+<title>Campiglia Marittima</title>
+<url>campigliamarittima</url></link>
+<link>
+<title>Castagneto Carducci</title>
+<url>castagnetocarducci</url></link>
+<link>
+<title>Guardistallo</title>
+<url>guardistallo</url></link>
+<link>
+<title>Cecina</title>
+<url>cecina</url></link>
+<link>
+<title>Montescudaio</title>
+<url>montescudaio</url></link>
+<link>
+<title>Bibbona</title>
+<url>bibbona</url></link>
+<link>
+<title>Casale Marittimo</title>
+<url>casalemarittimo</url></link>
+<link>
+<title>Piombino</title>
+<url>piombino</url></link>
+<link>
+<title>Siena</title>
+<url>siena</url></link>
+<link>
+<title>Torrita di Siena</title>
+<url>torritadisiena</url></link>
+<link>
+<title>Asciano</title>
+<url>asciano</url></link>
+<link>
+<title>Murlo</title>
+<url>murlo</url></link>
+<link>
+<title>Monticiano</title>
+<url>monticiano</url></link>
+<link>
+<title>Buonconvento</title>
+<url>buonconvento</url></link>
+<link>
+<title>San Giovanni d'Asso</title>
+<url>sangiovannidasso</url></link>
+<link>
+<title>Casole d'Elsa</title>
+<url>casoledelsa</url></link>
+<link>
+<title>Castelnuovo Berardenga</title>
+<url>castelnuovoberardenga</url></link>
+<link>
+<title>Monteriggioni</title>
+<url>monteriggioni</url></link>
+<link>
+<title>Monteroni d'Arbia</title>
+<url>monteronidarbia</url></link>
+<link>
+<title>Rapolano Terme</title>
+<url>rapolanoterme</url></link>
+<link>
+<title>Sovicille</title>
+<url>sovicille</url></link>
+<link>
+<title>Pisa</title>
+<url>pisa</url></link>
+<link>
+<title>Bientina</title>
+<url>bientina</url></link>
+<link>
+<title>Calcinaia</title>
+<url>calcinaia</url></link>
+<link>
+<title>Cascina</title>
+<url>cascina</url></link>
+<link>
+<title>Fucecchio</title>
+<url>fucecchio</url></link>
+<link>
+<title>Castelfranco di Sotto</title>
+<url>castelfrancodisotto</url></link>
+<link>
+<title>Lari</title>
+<url>lari</url></link>
+<link>
+<title>Fauglia</title>
+<url>fauglia</url></link>
+<link>
+<title>Crespina</title>
+<url>crespina</url></link>
+<link>
+<title>Capannoli</title>
+<url>capannoli</url></link>
+<link>
+<title>Montopoli Valdarno</title>
+<url>montopolivaldarno</url></link>
+<link>
+<title>Ponsacco</title>
+<url>ponsacco</url></link>
+<link>
+<title>Pontedera</title>
+<url>pontedera</url></link>
+<link>
+<title>Palaia</title>
+<url>palaia</url></link>
+<link>
+<title>San Giuliano Terme</title>
+<url>sangiulianoterme</url></link>
+<link>
+<title>San Miniato</title>
+<url>sanminiato</url></link>
+<link>
+<title>Collesalvetti</title>
+<url>collesalvetti</url></link>
+<link>
+<title>Santa Croce sull'Arno</title>
+<url>santacrocesullarno</url></link>
+<link>
+<title>Santa Maria a Monte</title>
+<url>santamariaamonte</url></link>
+<link>
+<title>Vecchiano</title>
+<url>vecchiano</url></link>
+<link>
+<title>Calci</title>
+<url>calci</url></link>
+<link>
+<title>Buti</title>
+<url>buti</url></link>
+<link>
+<title>Vicopisano</title>
+<url>vicopisano</url></link>
+<link>
+<title>Carrara</title>
+<url>carrara</url></link>
+<link>
+<title>Camaiore</title>
+<url>camaiore</url></link>
+<link>
+<title>Massa</title>
+<url>massa</url></link>
+<link>
+<title>Forte dei Marmi</title>
+<url>fortedeimarmi</url></link>
+<link>
+<title>Massarosa</title>
+<url>massarosa</url></link>
+<link>
+<title>Montignoso</title>
+<url>montignoso</url></link>
+<link>
+<title>Pietrasanta</title>
+<url>pietrasanta</url></link>
+<link>
+<title>Seravezza</title>
+<url>seravezza</url></link>
+<link>
+<title>Viareggio</title>
+<url>viareggio</url></link>
+<link>
+<title>Pistoia</title>
+<url>pistoia</url></link>
+<link>
+<title>Agliana</title>
+<url>agliana</url></link>
+<link>
+<title>Montale</title>
+<url>montale</url></link>
+<link>
+<title>Quarrata</title>
+<url>quarrata</url></link>
+<link>
+<title>Serravalle Pistoiese</title>
+<url>serravallepistoiese</url></link>
+<link>
+<title>Grosseto</title>
+<url>grosseto</url></link>
+<link>
+<title>Castiglione della Pescaia</title>
+<url>castiglionedellapescaia</url></link>
+<link>
+<title>Scarlino</title>
+<url>scarlino</url></link>
+<link>
+<title>Civitella Paganico</title>
+<url>civitellapaganico</url></link>
+<link>
+<title>Cinigiano</title>
+<url>cinigiano</url></link>
+<link>
+<title>Campagnatico</title>
+<url>campagnatico</url></link>
+<link>
+<title>Follonica</title>
+<url>follonica</url></link>
+<link>
+<title>Gavorrano</title>
+<url>gavorrano</url></link>
+<link>
+<title>Roccastrada</title>
+<url>roccastrada</url></link>
+<link>
+<title>Scansano</title>
+<url>scansano</url></link>
+<link>
+<title>Isola del Giglio</title>
+<url>isoladelgiglio</url></link>
+<link>
+<title>Magliano in Toscana</title>
+<url>maglianointoscana</url></link>
+<link>
+<title>Argentario</title>
+<url>argentario</url></link>
+<link>
+<title>Orbetello</title>
+<url>orbetello</url></link>
+<link>
+<title>Manciano</title>
+<url>manciano</url></link>
+<link>
+<title>Capalbio</title>
+<url>capalbio</url></link>
+<link>
+<title>Massa Marittima</title>
+<url>massamarittima</url></link>
+<link>
+<title>Sassetta</title>
+<url>sassetta</url></link>
+<link>
+<title>Monteverdi Marittimo</title>
+<url>monteverdimarittimo</url></link>
+<link>
+<title>Castelnuovo Val di Cecina</title>
+<url>castelnuovovaldicecina</url></link>
+<link>
+<title>Radicondoli</title>
+<url>radicondoli</url></link>
+<link>
+<title>Monterotondo Marittimo</title>
+<url>monterotondomarittimo</url></link>
+<link>
+<title>Chiusdino</title>
+<url>chiusdino</url></link>
+<link>
+<title>Montieri</title>
+<url>montieri</url></link>
+<link>
+<title>Suvereto</title>
+<url>suvereto</url></link>
+<link>
+<title>Pontremoli</title>
+<url>pontremoli</url></link>
+<link>
+<title>Aulla</title>
+<url>aulla</url></link>
+<link>
+<title>Filattiera</title>
+<url>filattiera</url></link>
+<link>
+<title>Mulazzo</title>
+<url>mulazzo</url></link>
+<link>
+<title>Comano</title>
+<url>comano</url></link>
+<link>
+<title>Podenzana</title>
+<url>podenzana</url></link>
+<link>
+<title>Tresana</title>
+<url>tresana</url></link>
+<link>
+<title>Zeri</title>
+<url>zeri</url></link>
+<link>
+<title>Casola in Lunigiana</title>
+<url>casolainlunigiana</url></link>
+<link>
+<title>Bagnone</title>
+<url>bagnone</url></link>
+<link>
+<title>Fivizzano</title>
+<url>fivizzano</url></link>
+<link>
+<title>Licciana Nardi</title>
+<url>licciananardi</url></link>
+<link>
+<title>Villafranca in Lunigiana</title>
+<url>villafrancainlunigiana</url></link>
+<link>
+<title>Portoferraio</title>
+<url>portoferraio</url></link>
+<link>
+<title>Campo nell'Elba</title>
+<url>camponellelba</url></link>
+<link>
+<title>Capoliveri</title>
+<url>capoliveri</url></link>
+<link>
+<title>Marciana</title>
+<url>marciana</url></link>
+<link>
+<title>Marciana Marina</title>
+<url>marcianamarina</url></link>
+<link>
+<title>Porto Azzurro</title>
+<url>portoazzurro</url></link>
+<link>
+<title>Rio Marina</title>
+<url>riomarina</url></link>
+<link>
+<title>Rio nell'Elba</title>
+<url>rionellelba</url></link>
+<link>
+<title>Capraia Isola</title>
+<url>capraiaisola</url></link>
+<link>
+<title>Prato</title>
+<url>prato</url></link>
+<link>
+<title>Carmignano</title>
+<url>carmignano</url></link>
+<link>
+<title>Montemurlo</title>
+<url>montemurlo</url></link>
+<link>
+<title>Poggio a Caiano</title>
+<url>poggioacaiano</url></link>
+<link>
+<title>Vaiano</title>
+<url>vaiano</url></link>
+<link>
+<title>Vernio</title>
+<url>vernio</url></link>
+<link>
+<title>Volterra</title>
+<url>volterra</url></link>
+<link>
+<title>Orciano Pisano</title>
+<url>orcianopisano</url></link>
+<link>
+<title>Lorenzana</title>
+<url>lorenzana</url></link>
+<link>
+<title>Casciana Terme</title>
+<url>cascianaterme</url></link>
+<link>
+<title>Terricciola</title>
+<url>terricciola</url></link>
+<link>
+<title>Peccioli</title>
+<url>peccioli</url></link>
+<link>
+<title>Montaione</title>
+<url>montaione</url></link>
+<link>
+<title>Gambassi Terme</title>
+<url>gambassiterme</url></link>
+<link>
+<title>Santa Luce</title>
+<url>santaluce</url></link>
+<link>
+<title>Chianni</title>
+<url>chianni</url></link>
+<link>
+<title>Lajatico</title>
+<url>lajatico</url></link>
+<link>
+<title>Riparbella</title>
+<url>riparbella</url></link>
+<link>
+<title>Montecatini Val di Cecina</title>
+<url>montecatinivaldicecina</url></link>
+<link>
+<title>Castellina Marittima</title>
+<url>castellinamarittima</url></link>
+<link>
+<title>Pomarance</title>
+<url>pomarance</url></link>
+<link>
+<title>Abetone</title>
+<url>abetone</url></link>
+<link>
+<title>Cutigliano</title>
+<url>cutigliano</url></link>
+<link>
+<title>Cantagallo</title>
+<url>cantagallo</url></link>
+<link>
+<title>Piteglio</title>
+<url>piteglio</url></link>
+<link>
+<title>Sambuca Pistoiese  </title>
+<url>sambucapistoiese</url></link>
+<link>
+<title>San Marcello Pistoiese</title>
+<url>sanmarcellopistoiese</url></link>
+<link>
+<title>Santa Fiora</title>
+<url>santafiora</url></link>
+<link>
+<title>Roccalbegna</title>
+<url>roccalbegna</url></link>
+<link>
+<title>Sorano</title>
+<url>sorano</url></link>
+<link>
+<title>Pitigliano</title>
+<url>pitigliano</url></link>
+<link>
+<title>Arcidosso</title>
+<url>arcidosso</url></link>
+<link>
+<title>Castel del Piano</title>
+<url>casteldelpiano</url></link>
+<link>
+<title>Piancastagnaio</title>
+<url>piancastagnaio</url></link>
+<link>
+<title>Semproniano</title>
+<url>semproniano</url></link>
+<link>
+<title>Castell'Azzara</title>
+<url>castellazzara</url></link>
+<link>
+<title>Chiusi della Verna</title>
+<url>chiusidellaverna</url></link>
+<link>
+<title>Chitignano</title>
+<url>chitignano</url></link>
+<link>
+<title>Poppi</title>
+<url>poppi</url></link>
+<link>
+<title>Bibbiena</title>
+<url>bibbiena</url></link>
+<link>
+<title>Pratovecchio</title>
+<url>pratovecchio</url></link>
+<link>
+<title>Stia</title>
+<url>stia</url></link>
+<link>
+<title>Castel Focognano</title>
+<url> castelfocognano</url></link>
+<link>
+<title>Montemignaio</title>
+<url>montemignaio</url></link>
+<link>
+<title>Talla</title>
+<url>talla</url></link>
+<link>
+<title>Castel San Niccolò</title>
+<url>castelsanniccolo</url></link>
+<link>
+<title>Ortignano Raggiolo</title>
+<url>ortignanoraggiolo</url></link>
+<link>
+<title>Montalcino</title>
+<url>montalcino</url></link>
+<link>
+<title>San Quirico d'Orcia</title>
+<url>sanquiricodorcia</url></link>
+<link>
+<title>Pienza</title>
+<url>pienza</url></link>
+<link>
+<title>Castiglione d'Orcia</title>
+<url>castiglionedorcia</url></link>
+<link>
+<title>Seggiano</title>
+<url>seggiano</url></link>
+<link>
+<title>Abbadia San Salvatore</title>
+<url>abbadiasansalvatore</url></link>
+<link>
+<title>Radicofani</title>
+<url>radicofani</url></link>
+<link>
+<title>San Casciano dei Bagni</title>
+<url>sancascianodeibagni</url></link>
+<link>
+<title>Chiusi</title>
+<url>chiusi</url></link>
+<link>
+<title>Cetona</title>
+<url>cetona</url></link>
+<link>
+<title>Sarteano</title>
+<url>sarteano</url></link>
+<link>
+<title>Chianciano Terme</title>
+<url>chiancianoterme</url></link>
+<link>
+<title>Abetone</title>
+<url>abetone</url></link>
+<link>
+<title>Massa e Cozzile</title>
+<url>massaecozzile</url></link>
+</pages>
